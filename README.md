@@ -1,4 +1,4 @@
-![I am a passionate python django developer](https://pbs.twimg.com/profile_banners/1607982040464633859/1704527192/600x200)
+![I am a passionate python django developer](https://pbs.twimg.com/profile_banners/1607982040464633859/1704527192/800x200)
 
 
 <h1 align="center">Hi 👋, I'm David Kudrot</h1>
