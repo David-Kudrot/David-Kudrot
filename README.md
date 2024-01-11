@@ -14,8 +14,13 @@
 </h2>
 <p align="left">               
 <a href="https://www.linkedin.com/in/david-kudrot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-kudrot/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007338286387" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007338286387" height="30" width="40" /></a>
-<a href="https://twitter.com/davidkudrot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://twitter.com/davidkudrot" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007338286387" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007338286387" height="30" width="40" />
+</a>
+<a href="https://twitter.com/davidkudrot" target="_blank">
+  <img align="center" src="https://example.com/twitter-icon.svg" alt="Twitter" height="30" width="40">
+</a>
+
 
 <!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a> -->
