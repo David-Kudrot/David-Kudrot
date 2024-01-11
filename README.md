@@ -4,7 +4,32 @@
 <h1 align="center">Hi 👋, I'm David Kudrot</h1>
 <h3 align="center">I am a passionate python django developer</h3>
 
-- 🌱 I’m currently learning **Djagno**
+<h2>
+        <span style='padding-right:10px'><img width="40px" height="40px" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" ></span>
+        <b>About Me</b>
+</h2>
+
+
+<p> 
+    <p> 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
+            <span>I’m currently doing <b>Competitive Programming</b></span>
+    </p>
+    <p>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
+        <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
+    </p>
+    <p >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
+        <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
+    </p>
+    <p >
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
+        <span>I really love to meet with new people</span>
+    </p>
+
+</p>
+
 
 - 📫 How to reach me **davidkudrot@gmail.com**
 
