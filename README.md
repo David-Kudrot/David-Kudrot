@@ -1,4 +1,4 @@
-![logo](kkkt.jpg)      
+![logo](kkk.jpg)      
 
 
 <h1 align="center">Hi 👋, I'm David Kudrot</h1>
