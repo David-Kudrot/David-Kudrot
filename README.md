@@ -18,7 +18,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007338286387" height="30" width="40" />
 </a>
 <a href="https://twitter.com/davidkudrot" target="_blank">
-  <img align="center" src="https://example.com/twitter-icon.svg" alt="Twitter" height="30" width="40">
+  <img align="center" src="https://img.shields.io/twitter/url?label=Follow%20%40davidkudrot&style=social&url=https%3A%2F%2Ftwitter.com%2Fdavidkudrot" alt="Twitter" />
 </a>
 
 
