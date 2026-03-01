@@ -10,9 +10,9 @@
 
 <!-- Profile Views & Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kudrot/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://davidkudrot.in/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidkudrot@gmail.com)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** at **Dr.Tech** who loves turning complex business problems into clean, scalable digital solutions.
+Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** who loves turning complex business problems into clean, scalable digital solutions.
 
 - 🐍 **Python Developer** at Dr.Tech
 - 🌐 **Backend Specialist** — Django & DRF
@@ -42,7 +42,6 @@ Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** at **Dr.T
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -87,7 +86,7 @@ Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** at **Dr.T
 | 🏢 Multi-Branch | Supports multiple school branches |
 | 📊 Reports & Analytics | Detailed dashboards and exports |
 
-**Stack:** `Django` `DRF` `Bootstrap 5` `PostgreSQL`
+**Stack:** `Django` `DRF` `Tailwind` `PostgreSQL`
 
 ---
 
@@ -143,7 +142,7 @@ Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** at **Dr.T
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-Kudrot&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -153,7 +152,7 @@ Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** at **Dr.T
 
 <div align="center">
 
-[![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![David's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=David-Kudrot&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -180,10 +179,10 @@ Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** at **Dr.T
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Kudrot-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINK)
-[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-Visit%20My%20Work-FF5722?style=for-the-badge)](https://YOUR_PORTFOLIO_LINK)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David%20Kudrot-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-kudrot/)
+[![Portfolio](https://img.shields.io/badge/🌍%20Portfolio-Visit%20My%20Work-FF5722?style=for-the-badge)](https://davidkudrot.in/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidkudrot@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/David-Kudrot)
 
 </div>
 
