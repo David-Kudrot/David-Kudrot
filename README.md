@@ -1,57 +1,132 @@
-![logo](kkk.jpg)      
+![logo](kkk.jpg)
 
+# 🚀 David Kudrot
 
-<h1 align="center">Hi 👋, I'm David Kudrot</h1>
-<h3 align="center">I am a passionate python django developer</h3>
+<h3 align="center">💻 Python Developer | Django & DRF Specialist | React Developer</h3>
+<h4 align="center">🌍 Building Scalable Real-World Web Applications</h4>
 
-<h2>
-        <span style='padding-right:10px'><img width="40px" height="40px" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" ></span>
-        <b>About Me</b>
-</h2>
+---
 
+## 👋 About Me
 
-<p> 
-    <p> 
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/25/000000/project-management.png"/>
-            <span>I’m currently doing <b>Competitive Programming</b></span>
-    </p>
-    <p>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/color/28/000000/learning.png"/>
-        <span>I’m currently learning <b>Data Structures and Algorithms.</b> to advance my coding skills </span>
-    </p>
-    <p >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/office/28/000000/search-client.png"/>
-        <span>I’m looking to collaborate on <b>OpenSource Projects</b> </span>
-    </p>
-    <p >
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.icons8.com/emoji/28/000000/smiling-face-with-halo.png"/>
-        <span>I really love to meet with new people</span>
-    </p>
+Hi, I'm **David Kudrot**, a passionate Full Stack Developer focused on building scalable, secure, and production-ready applications.
 
+- 🐍 Python Developer at Dr.Tech  
+- 🌐 Backend Specialist (Django & DRF)  
+- ⚛️ React Frontend Developer  
+- 🖥️ VPS Deployment & Server Management  
+- 🚀 Building Real-World Business Applications  
+
+I love solving real business problems with clean architecture and efficient backend logic.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Backend
+- Python  
+- Django  
+- Django REST Framework  
+- Flask  
+
+### 🎨 Frontend
+- React  
+- Tailwind CSS  
+- Bootstrap 5  
+- JavaScript  
+
+### 🗄️ Database
+- PostgreSQL  
+- MySQL  
+- SQLite  
+
+### ⚙️ DevOps & Tools
+- Git & GitHub  
+- Linux VPS (Hostinger KVM)  
+- Nginx  
+- Gunicorn  
+- Postman  
+- VS Code  
+
+---
+
+## 📌 Featured Projects
+
+### 🏫 School Management System
+A complete ERP solution including:
+
+- Student Information Management  
+- Fees Collection System  
+- Online & Offline Examination  
+- QR Code Attendance  
+- HR & Payroll  
+- Multi-Branch Support  
+- Reports & Analytics  
+
+**Tech Used:** Django, DRF, Bootstrap, PostgreSQL  
+
+---
+
+### 🌍 FITD – Import Export Business Website
+Modern responsive business website with:
+
+- Dynamic Product Listing  
+- Certificate Management  
+- Clean UI using React + Tailwind  
+- Backend ready with Django REST Framework  
+
+---
+
+### 🛒 Multivendor E-commerce System (Real World Level)
+
+- Vendor Dashboard  
+- Product Management  
+- Order Processing  
+- Role-Based Authentication  
+- API Architecture Design  
+- Secure Payment Integration Ready  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+</p>
 
-- 📫 How to reach me **davidkudrot@gmail.com**
+---
 
-<h2 style='margin-top:30px'>
-        <span><img width="30px" height="30px" src="https://img.icons8.com/clouds/100/000000/contact-card.png"/></span>
-        <b>Connect with me :</b>
-</h2>
-<p align="left">               
-<a href="https://www.linkedin.com/in/david-kudrot/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/david-kudrot/" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100007338286387" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100007338286387" height="30" width="40" />
-</a>
-<a href="https://twitter.com/davidkudrot" target="_blank">
-  <img align="center" src="https://img.shields.io/twitter/url?label=Follow%20%40davidkudrot&style=social&url=https%3A%2F%2Ftwitter.com%2Fdavidkudrot" alt="Twitter" />
-</a>
+## 🌐 Connect With Me
 
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 🌍 Portfolio: https://YOUR_PORTFOLIO_LINK  
+- 📧 Email: YOUR_EMAIL  
 
-<!-- <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a> -->
-</p> 
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🎯 Career Objective
+
+To build scalable digital systems that solve real-world business problems and to continuously grow as a professional Full Stack Developer.
+
+---
+
+## ⭐ Why Work With Me?
+
+✔ Clean & Maintainable Code  
+✔ Real-World Deployment Experience  
+✔ Secure Authentication Systems  
+✔ API Development & Integration  
+✔ Business-Oriented Thinking  
+✔ Continuous Learner  
+
+---
+
+<p align="center">
+  🔥 Always building. Always improving. Always shipping.
+</p>
 
 
