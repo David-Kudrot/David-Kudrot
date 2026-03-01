@@ -140,8 +140,11 @@ Hey there! I'm **David Kudrot**, a passionate **Full Stack Developer** who loves
 
 ## 🏆 GitHub Trophies
 
-![David's Stats](https://github-readme-stats.vercel.app/api?username=David-Kudrot&theme=radical&show_icons=true&hide_border=true)
+<div align="center">
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=David-Kudrot&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 ---
 
 ## 📈 Activity Graph
