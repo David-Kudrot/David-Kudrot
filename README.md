@@ -1,9 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header&text=Kudrotullah&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=65" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=(David%20Kudrot)&fontSize=28&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&text=Python%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20React&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kudrotullah%0A(David%20Kudrot)&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Python%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20React&descAlignY=70&descSize=18" width="100%"/>
 
 <br/>
 
