@@ -3,8 +3,8 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kudrotullah%0A(David%20Kudrot)&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Django%20%7C%20React&descAlignY=65&descSize=20" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Django+%26+DRF+Specialist+%F0%9F%90%8D;React+Frontend+Developer+%E2%9A%9B%EF%B8%8F;VPS+Deployment+%26+Server+Management+%F0%9F%96%A5%EF%B8%8F;Always+Building.+Always+Shipping.+%F0%9F%94%A5" alt="Typing SVG" /></a>
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kudrotullah%0A(David%20Kudrot)&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Python%20Developer%20%7C%20Django%20%7C%20DRF%20%7C%20React&descAlignY=65&descSize=20" width="100%"/>
 
 <br/>
 
