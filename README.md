@@ -1,7 +1,13 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Kudrotullah&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=David%20Kudrot%20%7C%20Python%20Developer%20%7C%20Django%20%7C%20React&descAlignY=58&descSize=20" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header" width="100%"/>
+
+<h1 style="margin-top:-180px; color:white;">Kudrotullah</h1>
+<h3 style="color:white;">(David Kudrot)</h3>
+<p style="color:white;">Python Developer | Django | DRF | React</p>
+</div>
 
 <br/>
 
